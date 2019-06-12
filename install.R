@@ -1,0 +1,5 @@
+install.packages(ggplot2)
+install.packages(dplyr)
+install.packages(readr)
+install.packages(gridExtra)
+install.packages(ggpubr)
